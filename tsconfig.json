@@ -1,0 +1,10 @@
+{
+  "extends": "@colussi/tsconfig",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "strictPropertyInitialization": false
+  }
+}
