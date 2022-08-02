@@ -1,6 +1,6 @@
 {
   "name": "wallet",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple wallet of Crypto and Fiat",
   "author": "Jonatan Colussi <jonatancolussi81@gmail.com>",
   "private": true,
